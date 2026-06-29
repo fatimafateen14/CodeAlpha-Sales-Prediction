@@ -44,8 +44,6 @@ and business insight generation.
 | Random Forest | 0.6207 | 0.7688 | 0.9813 |
 | Gradient Boosting | 0.6181 | 0.7295 | 0.9831 |
 
-> Fill in your actual results after running the notebook.
-
 ## 📈 Key Findings
 
 - **TV** advertising has the strongest positive impact on sales
